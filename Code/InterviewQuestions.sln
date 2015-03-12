@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.21005.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InterviewQuestions", "InterviewQuestions\InterviewQuestions.csproj", "{A23ED672-AE99-4D39-B079-2DF826196C78}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InterviewQuestionsTests", "InterviewQuestionsTests\InterviewQuestionsTests.csproj", "{337A82E9-CBD5-4ADD-93F2-130FE2B95A09}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A23ED672-AE99-4D39-B079-2DF826196C78}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A23ED672-AE99-4D39-B079-2DF826196C78}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A23ED672-AE99-4D39-B079-2DF826196C78}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A23ED672-AE99-4D39-B079-2DF826196C78}.Release|Any CPU.Build.0 = Release|Any CPU
+		{337A82E9-CBD5-4ADD-93F2-130FE2B95A09}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{337A82E9-CBD5-4ADD-93F2-130FE2B95A09}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{337A82E9-CBD5-4ADD-93F2-130FE2B95A09}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{337A82E9-CBD5-4ADD-93F2-130FE2B95A09}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
